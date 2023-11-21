@@ -1,0 +1,5 @@
+matrix1	input0.raw
+matrix2	input1.raw
+M	4
+N	4
+P	4

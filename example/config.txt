@@ -1,0 +1,2 @@
+Prefix plugins/GPUTiledMatMult/example/
+Plugin GPUTiledMatMult inputfile parameters.txt outputfile output.raw
